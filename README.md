@@ -2,9 +2,11 @@
 ### Нормализация данных до 3NF — Домашнее задание №1
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📊Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbdiagram.io-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  
 </p>
 
 ---
@@ -67,11 +69,11 @@
 
 ---
 
-## 📊 Итоговая схема базы данных
+## 📊 Схема базы данных
 
 ### Первоначальная диаграмма (dbdiagram)
 
-![Diagram](img/"dbdiagram на уровне проектирования.png")
+![Diagram](img/dbdiagram_на_уровне_проектирования.png)
 
 ### Финальная диаграмма (DBeaver)
 
@@ -92,7 +94,7 @@ DB_homework/
 ├── img/
 │   ├── dbeaver_diagram.png
 │   ├── dbeaver_structure.jpg
-│   └── dbdiagram на уровне проектирования.png
+│   └── dbdiagram_на_уровне_проектирования.png
 │
 ├── sql/
 │   ├── 01_create_tables_and_lookups.sql
