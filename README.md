@@ -69,7 +69,11 @@
 
 ## 📊 Итоговая схема базы данных
 
-### Полная диаграмма (DBeaver)
+### Первоначальная диаграмма (dbdiagram)
+
+![Diagram](img/"dbdiagram на уровне проектирования.png")
+
+### Финальная диаграмма (DBeaver)
 
 ![Diagram](img/dbeaver_diagram.png)
 
@@ -87,7 +91,8 @@ DB_homework/
 │
 ├── img/
 │   ├── dbeaver_diagram.png
-│   └── dbeaver_structure.jpg
+│   ├── dbeaver_structure.jpg
+│   └── dbdiagram на уровне проектирования.png
 │
 ├── sql/
 │   ├── 01_create_tables_and_lookups.sql
