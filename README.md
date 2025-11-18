@@ -194,4 +194,6 @@ DB_homework/
 │   ├── 01_create_tables_and_lookups.sql
 │   └── 02_load_data.sql
 │
+├── Вайс_Федор_ДЗ_1.ipynb
+│
 └── README.md
