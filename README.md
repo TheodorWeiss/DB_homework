@@ -1,13 +1,11 @@
 # 🌐 DB Homework  
 ### Нормализация данных до 3NF — Домашнее задание №1
 
-<p align="left">
-  <img src="https://img.shields.io/badge/📊Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbdiagram.io-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  
-</p>
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![dbdiagram.io](https://img.shields.io/badge/dbdiagram.io-000000?logo=diagramsdotnet&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![ERD](https://img.shields.io/badge/ERD-4B275F?logo=mermaid&logoColor=white)
 
 ---
 
